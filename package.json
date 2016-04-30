@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/pdpatel2/tone-tap/issues"
   },
-  "homepage": "https://github.com/pdpatel2/tone-tap#readme"
+  "homepage": "https://github.com/pdpatel2/tone-tap#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
 }
